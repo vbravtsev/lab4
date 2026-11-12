@@ -1,0 +1,50 @@
+@options
+@packages
+-classpath
+'C:/Users/vbrav/.m2/repository/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/vbrav/eclipse-workspace/lab4/src/main/java'
+-author
+-bottom
+'Copyright &#169; 1980. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/vbrav/eclipse-workspace/lab4/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'lab4 1.0-SNAPSHOT API'
+-notimestamp
+-use
+-version
+-windowtitle
+'lab4 1.0-SNAPSHOT API'
+lab4
+C:\Users\vbrav\.m2\repository\jakarta\servlet\jakarta.servlet-api\6.0.0\jakarta.servlet-api-6.0.0.jar = 1792441178869
+C:\Users\vbrav\eclipse-workspace\lab4\src\main\java = 1793807578067
+C:\Users\vbrav\eclipse-workspace\lab4\target\site\apidocs\allclasses-index.html = 1793808107241
+C:\Users\vbrav\eclipse-workspace\lab4\target\site\apidocs\allpackages-index.html = 1793808107243
+C:\Users\vbrav\eclipse-workspace\lab4\target\site\apidocs\copy.svg = 1793808107269
+C:\Users\vbrav\eclipse-workspace\lab4\target\site\apidocs\element-list = 1793808107207
+C:\Users\vbrav\eclipse-workspace\lab4\target\site\apidocs\help-doc.html = 1793808107260
+C:\Users\vbrav\eclipse-workspace\lab4\target\site\apidocs\index-all.html = 1793808107254
+C:\Users\vbrav\eclipse-workspace\lab4\target\site\apidocs\index.html = 1793808107257
+C:\Users\vbrav\eclipse-workspace\lab4\target\site\apidocs\link.svg = 1793808107271
+C:\Users\vbrav\eclipse-workspace\lab4\target\site\apidocs\member-search-index.js = 1793808107247
+C:\Users\vbrav\eclipse-workspace\lab4\target\site\apidocs\module-search-index.js = 1793808107245
+C:\Users\vbrav\eclipse-workspace\lab4\target\site\apidocs\overview-tree.html = 1793808107234
+C:\Users\vbrav\eclipse-workspace\lab4\target\site\apidocs\package-search-index.js = 1793808107246
+C:\Users\vbrav\eclipse-workspace\lab4\target\site\apidocs\script.js = 1793808107267
+C:\Users\vbrav\eclipse-workspace\lab4\target\site\apidocs\search-page.js = 1793808107277
+C:\Users\vbrav\eclipse-workspace\lab4\target\site\apidocs\search.html = 1793808107256
+C:\Users\vbrav\eclipse-workspace\lab4\target\site\apidocs\search.js = 1793808107274
+C:\Users\vbrav\eclipse-workspace\lab4\target\site\apidocs\serialized-form.html = 1793808107223
+C:\Users\vbrav\eclipse-workspace\lab4\target\site\apidocs\stylesheet.css = 1793808107266
+C:\Users\vbrav\eclipse-workspace\lab4\target\site\apidocs\tag-search-index.js = 1793808107248
+C:\Users\vbrav\eclipse-workspace\lab4\target\site\apidocs\type-search-index.js = 1793808107246
